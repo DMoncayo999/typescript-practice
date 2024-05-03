@@ -1,27 +1,27 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+Welcome! This tutorial demostrate the use of TypeScript language developing 
+a basic Note-Taking application that allows user to add, edit and delete notes.  
 
-{Provide a description of the software that you wrote to demonstrate the TypeScript language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+You can find a demo video in the following link:
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+In this tutorial I used:
 
-{Describe the programming language that you used and any libraries.}
+* Visual Studio Code 
+* TypeScript and TypeScript Compiler v5.4.5
+* Node.js v20.12.2      
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+You can find more information about TypeScript here:
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [TypeScript Documentation](https://www.typescriptlang.org/)
+- [Node.js Download v.20.12.2](https://nodejs.org/en/download/e)
+- [TypeScript Cheat Sheet](https://doabledanny.gumroad.com/l/typescript-cheat-sheet-pdf)
 
 # Future Work
 
