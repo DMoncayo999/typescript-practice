@@ -5,7 +5,7 @@ a basic Note-Taking application that allows user to add, edit and delete notes.
 
 You can find a demo video in the following link:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/DltAO3U6ADU)
 
 # Development Environment
 
