@@ -1,8 +1,6 @@
 // Display output to the terminal
-function displayMessage(message) {
-    console.log(message);
-}
-displayMessage("Hello from TypeScript!");
+var message = "Hello from TypeScript!";
+console.log(message);
 // Recursive factorial calculation function 
 function factorial(n) {
     if (n === 0 || n === 1) {
@@ -12,5 +10,5 @@ function factorial(n) {
         return n * factorial(n - 1);
     }
 }
-var result = factorial(8);
-console.log("Factorial of 8:", result);
+var result = factorial(4);
+console.log("Factorial of 4:", result);
