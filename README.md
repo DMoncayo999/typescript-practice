@@ -25,8 +25,9 @@ You can find more information about TypeScript here:
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+In the future I would like to:
 
-- Item 1
-- Item 2
-- Item 3
+- Improve user interface design for a more visually appealing note-taking experience.
+- Implement search functionality to allow users to search for specific notes.
+- Incorporate local storage or a database for persistent note storage across sessions.
+- Explore additional TypeScript features and advanced concepts to further enhance the application's functionality and maintainability.
